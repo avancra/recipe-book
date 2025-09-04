@@ -5,9 +5,9 @@
 
 - rigatoni
 - pancetta
-- peas
 - mushrooms
 - onions
+- cream
 
 
 ## Instructions
